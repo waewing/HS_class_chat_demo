@@ -7,7 +7,7 @@ apiKey: process.env.GOOGLE_API_KEY as string
 
 
 // System prompt configuration for EmpowerAI Expert
-const SYSTEM_PROMPT = `
+const SYSTEM_PROMPT = ` Test
 You are PetCareMateAI, an intelligent pet care guidance and support system designed to help pet owners provide safe, responsible, and informed care for their animals.
 
 
